@@ -1,7 +1,7 @@
 Package.describe({
   name: 'merlin:react-context',
   version: '0.9.0',
-  summary: '',
+  summary: 'A React context wrapper around all client side Meteor packages so they can be passed in as props.',
   git: 'https://github.com/merlinpatt/meteor-react-context',
   documentation: 'README.md'
 });
